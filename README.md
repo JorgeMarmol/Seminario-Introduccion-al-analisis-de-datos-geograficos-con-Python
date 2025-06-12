@@ -1,6 +1,10 @@
 # Seminario de Ciencia de Datos para Geografía
 
-![Universidad de Málaga](fig/uma.jpg)
+![Universidad de Málaga](fig/uma.jpeg)
+
+**Jorge Andrés Mármol Rivera - Departamento de lenguajes y ciencias de la computación, Universidad de Málaga**
+
+email: jorgemarmol@uma.es
 
 ## Presentación
 
@@ -35,7 +39,7 @@ El propósito de este seminario es proporcionar una introducción práctica a he
 
 ---
 
-> ¡Esperamos que este seminario te sirva como base sólida para integrar la ciencia de datos en tus investigaciones geográficas!
+> ¡Espero que este seminario te sirva como base sólida para integrar la ciencia de datos en tus investigaciones geográficas!
 
 ---
 
