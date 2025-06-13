@@ -1,4 +1,4 @@
-# Seminario de Ciencia de Datos para Geografía
+# Seminario de Introducción al análisis de Datos para Geografía
 
 ![Universidad de Málaga](fig/uma.jpeg)
 
